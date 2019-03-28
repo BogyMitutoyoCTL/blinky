@@ -9,7 +9,6 @@ Der Inhalt sollte dann folgender sein:
 
 ```bash
 [Unit]
-[Unit]
 Description=bogy
 Wants=network-online.target
 After=network-online.target
